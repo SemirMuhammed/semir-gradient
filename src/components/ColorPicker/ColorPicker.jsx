@@ -17,7 +17,7 @@ function ColorPicker({ numOfColors = 2, }) {
             key={index}
           >
             <ColorIndex>
-              Color {index + 1}:
+              ቀለም {index + 1}:
             </ColorIndex>
             <Input
               type='color'

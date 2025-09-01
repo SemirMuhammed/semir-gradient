@@ -29,13 +29,13 @@ function Settings() {
       <Button
         onClick={handleAddColor}
       >
-        Add Color
+        ቀለም ያክሉ
       </Button>
 
       <Button
         onClick={handleRemoveColor}
       >
-        Remove Color
+        ቀለም አስወግድ
       </Button>
     </Wrapper>
   );

@@ -22,6 +22,7 @@ function App() {
   return (
     <StyleSheetManager shouldForwardProp={shouldForwardProp}>
       <Wrapper>
+        <h1>የቀለም ቅልመት</h1>
         <Settings />
         <DisplayColor />
         <ColorPicker numOfColors={numOfColors} />
